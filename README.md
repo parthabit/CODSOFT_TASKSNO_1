@@ -14,8 +14,6 @@ Shopora is a modern, responsive, frontend-only online store built with React and
 ## Technologies
 React 18, Vite, React Router, Lucide React, CSS3, localStorage
 
-## Screenshots
-_Add screenshots here (e.g. `docs/home.png`)._
 
 ## Run Locally
 ```
