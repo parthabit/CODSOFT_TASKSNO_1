@@ -1,4 +1,4 @@
-# Shopora - React E-Commerce Demo (CODSOFT Web Development Internship)
+# Shopora - React E-Commerce
 
 Shopora is a modern, responsive, frontend-only online store built with React and Vite.
 
